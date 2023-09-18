@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Noelia-Ainsworth
 - 👀 I’m interested in Frontend development and Frontend development work
-- 🌱 I’m currently learning html, css and js
-- 💞️ I’m looking to collaborate on 
+- 💻 I’m currently learning html, css and js
+- 💖 I like cats 🐱, videogames 🎮, books 📚 and anime 🐱‍👤
+- 🐱‍💻 I’m looking to collaborate on anything that can improve my skills
 - 📫 How to reach me:  contacto@holanoelia.com
 
 <!---
