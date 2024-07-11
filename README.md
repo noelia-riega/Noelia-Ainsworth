@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @Noelia-Ainsworth
-- 👀 I’m interested in Frontend development and Frontend development work
-- 💻 I’m currently learning sass
+- 👋 Hi, I’m @noelia-riega
+- 👀 I’m interested in Frontend development, UX design and Frontend development work
+- 💻 I’m currently learning UX Design
 - 💖 I like cats 🐱, videogames 🎮, books 📚 and anime 🐱‍👤
 - 🐱‍💻 I’m looking to collaborate on anything that can improve my skills
-- 📫 How to reach me:  noeliariega@gmail.com
+- 📫 How to reach me: noeliariega@gmail.com
 
 <!---
-Noelia-Ainsworth/Noelia-Ainsworth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+noelia-riega/noelia-riega is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
